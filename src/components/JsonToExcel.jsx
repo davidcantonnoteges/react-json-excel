@@ -86,7 +86,7 @@ class JsonToExcel extends Component {
         onClick={this.saveExcel}
         style={style}
       >
-        Convert Json to Excel
+        Exportar tabla a EXCEL y descargar
       </button>
     );
   }
